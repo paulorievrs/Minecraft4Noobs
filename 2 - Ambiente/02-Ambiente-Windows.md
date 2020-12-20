@@ -1,4 +1,4 @@
-### Configurações do Ambiente Windows ###
+## Configurações do Ambiente Windows ###
 
 #### Minecraft
 <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Minecraft-Logo.png">
