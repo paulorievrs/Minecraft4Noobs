@@ -136,10 +136,12 @@ hardcore=false
 #Se o servidor vai estar no modo hardcore. True vai, false não vai.
 
 snooper-enabled=true 
-#Se vai enviar informações para o Minecraft, não afeta tanto na performance do server, mas fica a critério pessoal. True envia informações, false não envia. 
+#Se vai enviar informações para o Minecraft, não afeta tanto na performance do server, 
+#mas fica a critério pessoal. True envia informações, false não envia. 
 
 online-mode=true
-#Aqui é para definir bascimente se vai ser permitido entrar Minecraft Original ou não. Se deixar como True, somente pessoas com Minecraft Original vão poder entrar, como False, Minecraft Pirata também entra.
+#Aqui é para definir bascimente se vai ser permitido entrar Minecraft Original ou não. 
+#Se deixar como True, somente pessoas com Minecraft Original vão poder entrar, como False, Minecraft Pirata também entra.
 
 resource-pack=
 #Link de um zip de uma texture pack para quem entrar ter que baixar.
