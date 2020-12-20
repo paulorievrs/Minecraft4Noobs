@@ -79,10 +79,12 @@ allow-nether=true
 #Aqui altera se o Nether(inferno) vai estar funcionando ou não. True habilitado, False desabilitado.
 
 resource-pack-hash= 
-#Há uma maneira de definir uma textura como padrão por uma hash, para esse tutorial, não tem necessidade, mas se você tiver essa hash, pode inseri-la aqui.
+#Há uma maneira de definir uma textura como padrão por uma hash, para esse tutorial, 
+#não tem necessidade, mas se você tiver essa hash, pode inseri-la aqui.
 
 level-name=world 
-#Aqui basicamente é o nome do mapa que foi gerado como padrão, mas você depois pode alterar esse nome e, apagar os arquivos de mapa e assim consequentemente alterar o nome do mesmo.
+#Aqui basicamente é o nome do mapa que foi gerado como padrão, mas você depois pode alterar esse nome e,
+#apagar os arquivos de mapa e assim consequentemente alterar o nome do mesmo.
 
 enable-query=false 
 #Nada importante
@@ -94,11 +96,11 @@ announce-player-achievements=true
 #Se vai mostrar as conquistas do jogadores. True mostra, False não mostra.
 
 server-port=25565 
-#A porta em que seu servidor vai ser executado, se você tiver conhecimento de outro processo que está sendo executado nessa porta, o que é dificil, altera-a.
+#A porta em que seu servidor vai ser executado, se você tiver conhecimento de outro processo 
+#que está sendo executado nessa porta, o que é dificil, altera-a.
 
 max-world-size=29999984 
 #Aqui, altera-se o tamanho de mapa, exemplo, se tivese setado para 1000, o mundo iria ter 2000x2000 de tamanho.
-
 
 level-type=DEFAULT 
 #Como o mundo será gerado, você pode inserir FLAT, LEGACY, DEFAULT
@@ -158,7 +160,8 @@ player-idle-timeout=0
 #O quanto de tempo em minutos que o jogador pode ficar AFK, parado.
 
 max-players=20
-#A quantidade máxima de players que seu servidor pode aguentar. Quanto mais jogadores, mais consumo de RAM ele vai ter, aí sim teria que alterar aquele arquivo .bat para suprir essa demanda.
+#A quantidade máxima de players que seu servidor pode aguentar. Quanto mais jogadores, 
+#mais consumo de RAM ele vai ter, aí sim teria que alterar aquele arquivo .bat para suprir essa demanda.
 
 spawn-monsters=true
 #Se vai nascer Mobs, monstros (zumbi). True nasce, false não nasce.
