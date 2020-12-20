@@ -20,7 +20,7 @@ Entre no site de download do Spigot, que é o GetBukkit, clicando <a href="https
 
 Após baixa-lo, coloque-o em uma pasta, de preferência sozinho. Eu gosto de renomear o arquivo para ficar com o nome menor e melhor de trabalhar, mas é de sua preferência. Ficando assim:
 
-<img src="../images/Spigot-snapshot.png" style="padding: 10px 0">
+<img width="350" src="../images/Spigot-snapshot.png" style="padding: 10px 0">
 
 Após isso tudo, é necessário inicializar esse arquivo para gerar os arquivos do servidor, mas antes, copie e cole esse arquivo spigot em outra pasta, pois precisaremos de uma copia não executada dele para utilizar a API.
 
@@ -39,7 +39,7 @@ Após inserir esse comando, precisamos salvar esse arquivo como .bat, que é o e
 
 O gif abaixo demonstra como deverá ser salvo esse arquivo:
 
-<img src="../images/bat-tutorial.gif" style="padding: 10px 0">
+<img width="350" src="../images/bat-tutorial.gif" style="padding: 10px 0">
 
 Em alguns casos raros, esse comando não funciona, estão tente testar com:
 
@@ -52,11 +52,11 @@ Após isso tudo, vamos iniciar o servidor!
 
 Execute esse arquivo .bat, e ele irá gerar alguns arquivos extras dentro de sua pasta.
 
-<img src="../images/iniciando-server-1.gif" style="padding: 10px 0">
+<img width="350" src="../images/iniciando-server-1.gif" style="padding: 10px 0">
 
 Ele travou a execução mesmo do servidor porque temos que alterar uma configuração no arquivo eula, basta abri-lo e alterar o eula de false para true.
 
-<img src="../images/iniciando-server-2.gif" style="padding: 10px 0">
+<img width="350" src="../images/iniciando-server-2.gif" style="padding: 10px 0">
 
 Executando isso tudo novamente, como mostrado no gif, serão gerados vários arquivos novos que farão a configuração desse servidor. Se seu terminal finalizou parecido com o meu então deu tudo certo.
 
