@@ -220,3 +220,5 @@ Bom, feito isso, basta fechar o terminal, e executar o .bat novamente.
 Assim, você consegue entrar no seu servidor criado normalmente, pelo IP localhost.
 
 Em extras, ensinará a você jogar com outras pessoas, mas por enquanto só você em sua máquina consegue acessar.
+
+Se você entende de inglês e quiser se aprofundar nessas propriedes do servidor basta acessar: <a href="https://minecraft.gamepedia.com/Server.properties">https://minecraft.gamepedia.com/Server.properties</a>
