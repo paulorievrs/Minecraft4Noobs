@@ -20,7 +20,7 @@ Entre no site de download do Spigot, que é o GetBukkit, clicando <a href="https
 
 Após baixa-lo, coloque-o em uma pasta, de preferência sozinho. Eu gosto de renomear o arquivo para ficar com o nome menor e melhor de trabalhar, mas é de sua preferência. Ficando assim:
 
-<img src="../images/spigot-snapshot.png" style="padding: 10px 0">
+<img src="../images/Spigot-snapshot.png" style="padding: 10px 0">
 
 Após isso tudo, é necessário inicializar esse arquivo para gerar os arquivos do servidor, mas antes, copie e cole esse arquivo spigot em outra pasta, pois precisaremos de uma copia não executada dele para utilizar a API.
 
