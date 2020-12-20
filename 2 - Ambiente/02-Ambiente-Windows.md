@@ -226,4 +226,12 @@ Assim, você consegue entrar no seu servidor criado normalmente, pelo IP localho
 
 Em extras, ensinará a você jogar com outras pessoas, mas por enquanto só você em sua máquina consegue acessar.
 
-Se você entende de inglês e quiser se aprofundar nessas propriedes do servidor basta acessar: <a href="https://minecraft.gamepedia.com/Server.properties">https://minecraft.gamepedia.com/Server.properties</a>
+Obs:
+<ul>
+
+<li style="padding-bottom: 10px">Se você entende de inglês e quiser se aprofundar nessas propriedes do servidor basta acessar: <a href="https://minecraft.gamepedia.com/Server.properties">https://minecraft.gamepedia.com/Server.properties</a></li>
+
+
+<li><a href="https://github.com/paulorievrs/Minecraft4Noobs/blob/master/Extras/01-JogarComAmigos.md">Como jogar com amigos</a></li>
+
+</ul>

@@ -22,5 +22,7 @@ Para remover a senha de sua rede, clique com o botão direito nela, vá em defin
 
 <img width="350" src="../images/remove-hamachi-password.gif">
 
+No IP do seu server.properties, você vai copiar o seu IPV4 clicando nos números abaixo do MENU e colar lá. E seus amigos irão entrar por ele.
+
 E é isso :)
 
